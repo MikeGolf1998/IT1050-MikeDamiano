@@ -28,6 +28,7 @@ namespace Lab2
 
             Console.WriteLine("Product is {0}", product); //display product
             Console.ReadLine();
+            //
         }
     }
 }
